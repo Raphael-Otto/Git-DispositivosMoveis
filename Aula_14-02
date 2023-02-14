@@ -1,0 +1,11 @@
+-In folder terminal:
+
+  1. run "npx create-expo-app (archive name)"
+  2. wait for the download to finish
+
+-Open the installed archive in vscode
+
+-In vscode terminal:
+
+  1. run "expo start"
+  2. Scan the QR code
